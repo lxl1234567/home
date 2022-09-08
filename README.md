@@ -6,7 +6,7 @@
 
   >这是我的个人主页
 
->完全抄的 Dmego 的个人主页
+
 >以下是原版的介绍
 
 >衍生自 [Vno](https://github.com/onevcat/vno-jekyll) Jekyll 主题
